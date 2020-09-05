@@ -1,4 +1,4 @@
-# The purpose of this assignment is to assess the dataset in terms of data completion/quality
+# The purpose of this project is to assess the dataset in terms of data completion/quality
 # Describe participant population
 # Describe outcomes of program participants after 3 months
 
